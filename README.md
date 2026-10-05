@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na Universidade de Brasília (UnB). Hoje e
 
 ### Projetos em destaque
 
-- **[Classificação de objetos astronômicos com PyTorch](https://github.com/RafaelMkrauss/Rede-neural-classifica-o-de-gal-xias-e-Rede-neural-from-scratch)**: rede neural que separa galáxias, estrelas e quasares com 96,9% de acurácia, mais uma rede neural feita do zero em NumPy.
+- **[MLP from scratch e Classificação de objetos astronômicos com PyTorch](https://github.com/RafaelMkrauss/Rede-neural-classifica-o-de-gal-xias-e-Rede-neural-from-scratch)**: rede neural que separa galáxias, estrelas e quasares com 96,9% de acurácia, mais uma rede neural feita do zero em NumPy.
 - **[RAG com a Wikipédia em português](https://github.com/RafaelMkrauss/Rag-wikipediaBr)**: perguntas e respostas com busca semântica e geração de texto, usando Hugging Face.
 - **[Prision Corrupt](https://github.com/RafaelMkrauss/Trabalho-isc-prision-corrupt)**: jogo escrito em Assembly RISC-V.
 - **[BrasílIA segura](https://github.com/RafaelMkrauss/Hackton-2-try)**: app web feito no hackathon da Campus Party 2025, 4º lugar.
